@@ -5,7 +5,7 @@
 ![WanderHub Banner](https://github.com/user-attachments/assets/a9786c41-695f-434f-bf78-98bb8d206b26)
 
 ## 🌐 Live Demo
-👉 [https://akshithareddy005.github.io/WANDERHUB/](https://akshithareddy005.github.io/WANDERHUB/)
+👉 [https://shreyab7134.github.io/WANDERHUB/](https://shreyab7134.github.io/WANDERHUB/)
 
 ---
 
@@ -79,17 +79,5 @@ Double-click any HTML file or
 
 Use a local server (e.g., VS Code Live Server)
 
-🤝 How to Contribute
-We welcome contributions! Here's how:
-
-Fork the repository
-
-Create a new branch (git checkout -b feature/your-feature)
-
-Commit your changes (git commit -m 'Add some feature')
-
-Push to the branch (git push origin feature/your-feature)
-
-Open a Pull Request
 
 
