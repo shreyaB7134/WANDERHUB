@@ -1,83 +1,69 @@
-# 🌏 WANDERHUB - Your Ultimate Travel Companion  
+# 🌍 WANDERHUB – Your Ultimate Travel Companion
 
-**A multi-feature travel website with destination guides, weather forecasts, currency conversion, and emergency assistance.**  
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-green?style=for-the-badge)](https://shreyab7134.github.io/WANDERHUB/)
+[![GitHub Repo Stars](https://img.shields.io/github/stars/shreyab7134/WANDERHUB?style=for-the-badge)](https://github.com/shreyab7134/WANDERHUB/stargazers)
 
-![WanderHub Banner](https://github.com/user-attachments/assets/a9786c41-695f-434f-bf78-98bb8d206b26)
 
-## 🌐 Live Demo
-👉 [https://shreyab7134.github.io/WANDERHUB/](https://shreyab7134.github.io/WANDERHUB/)
-
----
-
-## ✨ Preview
-**Main Page**  
-![Main Page Preview](https://github.com/user-attachments/assets/a2798d29-fc58-4f72-abaf-054f05ebd398)
-
-**Weather Feature**  
-![Weather Feature](https://github.com/user-attachments/assets/a48bb2d8-5156-4ee9-b6c5-89f6ea296795)
-
-*Explore more features in the live demo!*
+> ✈️ **WANDERHUB** is an all-in-one travel web app to help you plan, explore, and travel smarter. Featuring weather forecasts, currency conversion, emergency help, nearby places, and more — it’s your perfect travel buddy.
 
 ---
 
-## 🚀 Features
-| Feature | Description |
-|---------|-------------|
-| **Destination Guides** | Discover popular tourist attractions |
-| **Weather Forecasts** | Real-time weather information |
-| **Currency Converter** | Travel-friendly currency conversion tool |
-| **Emergency Assistance** | Important contacts and safety information |
-| **Travel Planner** | Create and manage your itineraries |
-| **Nearby Places** | Find points of interest near you |
+## ✨ Features
+
+| 🌟 Feature              | 💬 Description                                                 |
+|------------------------|---------------------------------------------------------------|
+| 🗺️ Destination Guides  | Discover must-see tourist attractions                         |
+| 🌤️ Weather Forecasts   | Get live weather updates powered by OpenWeatherMap            |
+| 💱 Currency Converter  | Instantly convert currencies using real-time exchange rates    |
+| 🚨 Emergency Help      | Access vital emergency contact info while traveling           |
+| 📝 Travel Planner      | Plan and manage your itinerary day-by-day                     |
+| 📍 Nearby Places       | Find restaurants, ATMs, hospitals, and more near your location|
 
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML5, CSS3, JavaScript
-- **APIs Used:**
-  - OpenWeatherMap API (Weather data)
-  - ExchangeRate-API (Currency conversion)
-- **Deployment:** GitHub Pages
+
+- **Frontend**: HTML5, CSS3, JavaScript  
+- **APIs**:
+  - 🔸 [OpenWeatherMap API](https://openweathermap.org/api)
+  - 🔸 [ExchangeRate-API](https://www.exchangerate-api.com/)
+- **Deployment**: GitHub Pages
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
+
 WANDERHUB/
-├── index.html # Main homepage
+│
+├── index.html             
+├── about.html               
+├── attractions.html         
+├── currency-converter.html  
+├── emergency.html        
+├── weather.html            
+├── tp.html                  
+├── nearby.html
+├── frontend.html           
+├── gotit.html               
+├── home2.html              
+└── README.md                
 
-├── about.html # About section
+## 🖼️ Preview
+🏠 Homepage:)
 
-├── attractions.html # Tourist attractions
+ ![Image](https://github.com/user-attachments/assets/28f8ea2e-e44e-4525-899a-87d729090fd7)
 
-├── currency-converter.html # Currency tool
+🌦️ Weather Feature :)
 
-├── emergency.html # Emergency contacts
+  ![Image](https://github.com/user-attachments/assets/6346b5b2-5a16-4abc-8511-a38650882e0b)
 
-├── weather.html # Weather forecasts
+  📍 Explore all features in the Live Demo
+  
 
-├── tp.html # Travel planner
+## 🙌 Acknowledgements
+🌦️ Weather data by OpenWeatherMap
 
-├── nearby.html # Nearby places
+💱 Currency data by ExchangeRate-API
 
-└── README.md # Project documentation
-
-
----
-
-## 🚀 Getting Started
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/AkshithaReddy005/WANDERHUB.git
-Navigate to project directory:
-
-bash
-Copy
-cd WANDERHUB
-Open in browser:
-
-Double-click any HTML file or
-
-Use a local server (e.g., VS Code Live Server)
-
-
+🎨 Icons and visuals from open-source libraries and assets
 
